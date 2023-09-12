@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.f2900f00.css",
+    "main.js": "/portfolio/static/js/main.774e79cd.js",
+    "static/media/Gnome2.jpg": "/portfolio/static/media/Gnome2.cf6d5d610c23766efcf8.jpg",
+    "static/media/Gnome.jpg": "/portfolio/static/media/Gnome.1ee7aa570b0dbac4c974.jpg",
+    "static/media/project1.png": "/portfolio/static/media/project1.8878b00ee0b0c81de91f.png",
+    "static/media/react1.png": "/portfolio/static/media/react1.5ae8057725ff7630a626.png",
+    "static/media/project2.png": "/portfolio/static/media/project2.4a809b7ac35ba39d66cb.png",
+    "index.html": "/portfolio/index.html",
+    "main.f2900f00.css.map": "/portfolio/static/css/main.f2900f00.css.map",
+    "main.774e79cd.js.map": "/portfolio/static/js/main.774e79cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2900f00.css",
+    "static/js/main.774e79cd.js"
+  ]
+}
