@@ -1,0 +1,17 @@
+.container-cvpdf{
+    max-width: 600px;
+    max-height: 600px;
+    margin: auto;
+    position: relative;
+    top: 100px;
+}
+
+.react-pdf__Document{
+    margin: auto;
+}
+
+@media screen and (max-width: 640px){
+    .container-cvpdf{
+        max-width: 400px
+    }
+}
