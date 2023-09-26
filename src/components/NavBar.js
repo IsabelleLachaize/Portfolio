@@ -22,22 +22,25 @@ const NavBar = () => {
 
   return (
     <div className={color ? "header header-bg" : "header"}>
-      <Link to="/" >
+      <Link to="/" onClick={() => window.scroll(0,0)}>
         <h1 className="big-screen">Portfolio  ||  Isabelle Lachaize</h1>
         <h1 className="small-screen">Portfolio</h1>
       </Link>
       <ul className={click? "nav-menu active" : "nav-menu"} >
         <li>
-            <Link to="/">Accueil</Link>
+            <Link to="/" onClick={() => window.scroll(0,0)}>Accueil</Link>
         </li>
         <li>
-            <Link to="/projects">Projets</Link>
+            <Link to="/cv" onClick={() => window.scroll(0,0)}>CV</Link>
         </li>
         <li>
-            <Link to="/about">À Propos</Link>
+            <Link to="/projects" onClick={() => window.scroll(0,0)}>Projets</Link>
         </li>
         <li>
-            <Link to="/contact">Contact</Link>
+            <Link to="/about" onClick={() => window.scroll(0,0)}>À Propos</Link>
+        </li>
+        <li>
+            <Link to="/contact" onClick={() => window.scroll(0,0)}>Contact</Link>
         </li>
       </ul>
       <div className="hamburger" onClick={handleClick}>  

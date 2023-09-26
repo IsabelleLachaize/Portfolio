@@ -11,10 +11,9 @@ const StaticCard = () => {
             <div className="card">
                 <h4>Serveuse</h4>
                 <span className="bar"></span>
-                <p className="bigSkill">Dynamisme</p>
+                <p className="bigSkill">Capacité d'analyse</p>
+                <p>Dynamisme</p>
                 <p>Esprit d'équipe</p>
-                <p>Gestion du stress</p>
-                <Link to="/contact" className="btn">Contact</Link>
             </div>
 
             <div className="card">
@@ -23,7 +22,6 @@ const StaticCard = () => {
                 <p className="bigSkill">Organisation</p>
                 <p>Patience</p>
                 <p>Relation client</p>
-                <Link to="/contact" className="btn">Contact</Link>
             </div>
 
             <div className="card">
@@ -32,7 +30,6 @@ const StaticCard = () => {
                 <p className="bigSkill">Créativité</p>
                 <p>Ecoute</p>
                 <p>Sens du besoin</p>
-                <Link to="/contact" className="btn">Contact</Link>
             </div>
         </div>
       

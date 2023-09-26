@@ -19,7 +19,7 @@
     top:0;
     left:0;
     background-color: black;
-    opacity: 0.8;
+    opacity: 0.82;
 }
 
 .hero{
@@ -49,6 +49,7 @@
 
 .content .btn{
     margin: 1rem 0.2rem;
+    flex-grow: 1;
 }
 
 .content .btn-light{

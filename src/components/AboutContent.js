@@ -1,34 +1,33 @@
 import "./AboutContentStyles.css";
 
-import React from 'react'
+import React, { Component } from 'react'
 import { Link } from "react-router-dom";
-import react1 from "../assets/react1.png"
-// import react2 from "../assets/react2.png"
 
-const AboutContent = () => {
+
+class AboutContent extends Component {
+  render() {
   return (
-    <div className="about">
+    <div className={this.props.flexRow}>
       <div className="left">
-        <h2>En reconversion professionnelle</h2>
-        <p>Et très motivée d'apprendre rapidement et de participer avec enthousiasme dans des projets en entreprise avec analyse, créativité et rigueur.
-        </p>
-        <Link to="/contact">
+        <h2>{this.props.h2}</h2>
+        <p>{this.props.p}</p>
+        {/* <Link to="/contact">
             <button className="btn">Contact</button>
-        </Link>
+        </Link> */}
       </div>
 
       <div className="right">
         <div className="img-container">
             <div className="img-stack top">
-                <img src={react1} className="img" alt=""/>
+                <img src={this.props.src1} className="img" alt=""/>
             </div>
-            {/* <div className="img-stack bottom">
-                <img src={react2} className="img" alt=""/>
-            </div> */}
+            <div className="img-stack bottom">
+                <img src={this.props.src2} className="img" alt=""/>
+            </div>
         </div>
       </div>
     </div>
-  )
+  )}
 }
 
 export default AboutContent

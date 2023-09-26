@@ -13,11 +13,12 @@ const HeroImg = () => {
         src={IntroImg} alt="Gnome sauveur avec PC affichant de la programmation" />
       </div>
       <div className="content">
-        <p>BONJOUR, JE SUIS ETUDIANTE</p>
-        <h1>Développeuse Web</h1>
+        <p>BONJOUR, JE SUIS ALTERNANTE</p>
+        <h1>Développeuse</h1>
         <div className="btn-container">
-            <Link to="/projects" className="btn">Projets</Link>
-            <Link to="/contact" className="btn btn-light">Contact</Link>
+          <Link to="/cv" className="btn btn-light" onClick={() => window.scroll(0,0)}>CV</Link>
+            <Link to="/projects" className="btn" onClick={() => window.scroll(0,0)}>Projets</Link>
+            <Link to="/contact" className="btn btn-light" onClick={() => window.scroll(0,0)}>Contact</Link>
         </div>
       </div>
     </div>

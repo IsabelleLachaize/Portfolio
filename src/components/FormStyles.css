@@ -11,6 +11,15 @@ form{
     max-width: 600px;
 }
 
+.empty{
+    display: none;
+}
+
+.visible{
+    color: red;
+    text-align: center;
+}
+
 form input, form textarea{
     margin-bottom: 1rem;
     padding: 10px 18px;

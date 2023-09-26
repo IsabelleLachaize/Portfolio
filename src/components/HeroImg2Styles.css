@@ -1,8 +1,21 @@
+#gnome{
+    background: url(../assets/Gnome2.jpg);
+    background-size: cover;
+}
+#citation{
+    background: url(../assets/projets.bmp);
+    background-size: cover;
+}
+#nala{
+    background: url(../assets/nala.jpg);
+    background-size: cover;
+}
+
 .hero-img{
     width: 100%;
-    background: rgba(0,0,0,0.5);
     height: 80vh;
     position: relative;
+    opacity: 0.8;
 }
 
 .heading{
@@ -16,9 +29,7 @@
 
 .hero-img::before{
     content: "";
-    background: url(../assets/Gnome2.jpg);
-    opacity: 0.8;
-    background-size: cover;
+    background: rgba(0,0,0,0.8);
     background-position: center top;
     height: 100%;
     width: 100%;
