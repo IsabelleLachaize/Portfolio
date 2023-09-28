@@ -26,9 +26,9 @@ const Footer = () => {
             <div className="right">
                 <h4>Merci d'avoir visité le site!</h4>
                 <p>En vous souhaitant une belle journée, <br/> Isabelle Lachaize</p>
-                <div className="social">
+                {/* <div className="social">
                     <FaLinkedin size={20} style={{color: "#fff", marginRight : "2rem" }} />
-                </div>
+                </div> */}
             </div>
         </div>
     </div>

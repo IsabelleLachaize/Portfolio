@@ -67,6 +67,10 @@ const Form = () => {
         });
       }
     }
+    // Veuillez ne pas trop juger trop vite ce code peu élégant, ce site a été conçu en autodidacte
+    // A l'aide de différents tutos youtube, dont certains n'étaient que du front..
+
+    // Recherche Alternance !!!
 
   return (
     <div>

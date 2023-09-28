@@ -1,18 +1,24 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.f2900f00.css",
-    "main.js": "/portfolio/static/js/main.774e79cd.js",
+    "main.css": "/portfolio/static/css/main.583b560c.css",
+    "main.js": "/portfolio/static/js/main.26de7780.js",
+    "static/media/projets.bmp": "/portfolio/static/media/projets.3bac3e06a2ed99ffcbd0.bmp",
+    "static/media/nala.jpg": "/portfolio/static/media/nala.be9b12f2b9f8a7815b8f.jpg",
+    "static/media/velo.jpg": "/portfolio/static/media/velo.b04ea6727f22825327bf.jpg",
     "static/media/Gnome2.jpg": "/portfolio/static/media/Gnome2.cf6d5d610c23766efcf8.jpg",
     "static/media/Gnome.jpg": "/portfolio/static/media/Gnome.1ee7aa570b0dbac4c974.jpg",
-    "static/media/project1.png": "/portfolio/static/media/project1.8878b00ee0b0c81de91f.png",
-    "static/media/react1.png": "/portfolio/static/media/react1.5ae8057725ff7630a626.png",
+    "static/media/babysitting.png": "/portfolio/static/media/babysitting.c9f9cdf97d31c60ac678.png",
+    "static/media/trajet-velo.png": "/portfolio/static/media/trajet-velo.2fd540633cb494e9e458.png",
+    "static/media/project1.png": "/portfolio/static/media/project1.18a5082e4d27b8a8eb1f.png",
+    "static/media/CV.pdf": "/portfolio/static/media/CV.61426cacbb4d341894ff.pdf",
+    "static/media/photo-cv.png": "/portfolio/static/media/photo-cv.5ae8057725ff7630a626.png",
     "static/media/project2.png": "/portfolio/static/media/project2.4a809b7ac35ba39d66cb.png",
     "index.html": "/portfolio/index.html",
-    "main.f2900f00.css.map": "/portfolio/static/css/main.f2900f00.css.map",
-    "main.774e79cd.js.map": "/portfolio/static/js/main.774e79cd.js.map"
+    "main.583b560c.css.map": "/portfolio/static/css/main.583b560c.css.map",
+    "main.26de7780.js.map": "/portfolio/static/js/main.26de7780.js.map"
   },
   "entrypoints": [
-    "static/css/main.f2900f00.css",
-    "static/js/main.774e79cd.js"
+    "static/css/main.583b560c.css",
+    "static/js/main.26de7780.js"
   ]
 }
