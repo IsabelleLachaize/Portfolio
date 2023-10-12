@@ -11,7 +11,6 @@ const Footer = () => {
                 <div className="location">
                     <FaHome size={20} style={{color: "#fff", marginRight : "2rem" }}/>
                     <div>
-                        <p>89 boulevard de Stalingrad</p>
                         <p>94320 Thiais</p>
                     </div>
                 </div>
@@ -25,7 +24,7 @@ const Footer = () => {
         
             <div className="right">
                 <h4>Merci d'avoir visité le site!</h4>
-                <p>En vous souhaitant une belle journée, <br/> Isabelle Lachaize</p>
+                <p>En vous souhaitant une très belle journée, <br/> <br/> Isabelle Lachaize</p>
                 {/* <div className="social">
                     <FaLinkedin size={20} style={{color: "#fff", marginRight : "2rem" }} />
                 </div> */}

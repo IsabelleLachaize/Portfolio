@@ -23,7 +23,7 @@ const About = () => {
       <AboutContent
       flexRow="about row-reverse"
       h2="Un défi personnel"
-      p="Partant seule l'été 2022 en vélo avec le nécessaire de camping sur le porte-bagage, croisant des cyclistes sur le chemin et visitant ces régions. Ce trajet a été effectué en 16 jours."
+      p="Partant seule deux semaines l'été 2022 en vélo avec le nécessaire de camping sur le porte-bagage, croisant des cyclistes sur le chemin et visitant ces régions."
       src1={map}
       src2={velo}
       />
