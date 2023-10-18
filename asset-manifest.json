@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.e7b886c6.css",
-    "main.js": "/portfolio/static/js/main.5c5865db.js",
+    "main.js": "/portfolio/static/js/main.b0b11baf.js",
     "static/media/velo.jpg": "/portfolio/static/media/velo.b04ea6727f22825327bf.jpg",
     "static/media/Gnome2.jpg": "/portfolio/static/media/Gnome2.cf6d5d610c23766efcf8.jpg",
     "static/media/Gnome.jpg": "/portfolio/static/media/Gnome.1ee7aa570b0dbac4c974.jpg",
@@ -10,15 +10,15 @@
     "static/media/project1.png": "/portfolio/static/media/project1.18a5082e4d27b8a8eb1f.png",
     "static/media/nala.jpg": "/portfolio/static/media/nala.d310e908350826a53680.jpg",
     "static/media/coquelicots.jpg": "/portfolio/static/media/coquelicots.9b0637d5652e621114d9.jpg",
-    "static/media/CV.pdf": "/portfolio/static/media/CV.7727612ba7322890a4b0.pdf",
+    "static/media/CV.pdf": "/portfolio/static/media/CV.c54a0296697388aa4671.pdf",
     "static/media/photo-cv.png": "/portfolio/static/media/photo-cv.5ae8057725ff7630a626.png",
     "static/media/project2.png": "/portfolio/static/media/project2.4a809b7ac35ba39d66cb.png",
     "index.html": "/portfolio/index.html",
     "main.e7b886c6.css.map": "/portfolio/static/css/main.e7b886c6.css.map",
-    "main.5c5865db.js.map": "/portfolio/static/js/main.5c5865db.js.map"
+    "main.b0b11baf.js.map": "/portfolio/static/js/main.b0b11baf.js.map"
   },
   "entrypoints": [
     "static/css/main.e7b886c6.css",
-    "static/js/main.5c5865db.js"
+    "static/js/main.b0b11baf.js"
   ]
 }
